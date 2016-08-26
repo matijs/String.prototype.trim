@@ -1,0 +1,24 @@
+{
+  "name": "trim",
+  "version": "0.0.0",
+  "description": "String.prototype.trim polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matijs/String.prototype.trim.git"
+  },
+  "keywords": [
+    "polyfill",
+    "string",
+    "trim"
+  ],
+  "author": "Matijs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matijs/String.prototype.trim/issues"
+  },
+  "homepage": "https://github.com/matijs/String.prototype.trim#readme"
+}
