@@ -1,0 +1,2 @@
+# String.prototype.trim polyfill
+
